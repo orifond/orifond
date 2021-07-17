@@ -1,4 +1,5 @@
 ### 🌿
+![KakaoTalk_20210704_213044567_02](https://user-images.githubusercontent.com/82400471/126043631-de73ce92-2a21-4d85-ad5b-fd7e6a4bb0e4.jpg)
 
 <!--
 **orifond/orifond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
